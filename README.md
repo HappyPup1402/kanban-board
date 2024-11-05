@@ -64,7 +64,7 @@ Once the application is running, follow these steps to authenticate and interact
 
 ## Demo
 
-Check out the live demo: 
+Check out the live demo: https://kanban-board-mbur.onrender.com
 
 ## Questions
 
